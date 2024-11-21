@@ -1,7 +1,9 @@
 About the Game
+
 Embark on an exciting text-based adventure! Navigate through different rooms, gather items, battle enemies, and uncover secrets to claim the ultimate treasure. 
 
-How to Play
+How to Play:
+
 Run the game:
 
 javac Game.java
